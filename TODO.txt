@@ -1,0 +1,16 @@
+* Segregated profiles (or the ability to use different datastores based on authentication)
+* Lots of plugins
+* Connect with other hubs
+* "When I say ... I want you to ..."
+* Supernodes -- like Skype. For devices that can't connect in/out via
+  other means or people who don't want to set up their own server.
+* content responses for audio/video streaming
+* "I don't want to be bothered right now / for X minutes / until Y" -- turn off ringer for a short time
+* Record a location ("remember that I parked my car here")
+  * Possibly also tracking speed to record where you last stopped
+* "Remember..." -- a 'memory bank'?
+* Metric vs. non-metric config (weather, distance, etc.)
+* Contact-based commands (directions to John's house, email Tim, Sal's birthday)
+* Geofencing
+* "When I wake up" -- phone first moves in the morning
+* "Notepad" containing learned data (like Cortana)
